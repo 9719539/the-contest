@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The contest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="final_score">final_score\n</string>
+    <string name="score">score: </string>
+    <string name="scoreText">Score:</string>
+
+<!--    questions -->
+    <string name="question1">Capital of France?</string>
+    <string name="question2">2 + 2?</string>
+    <string name="question3">Color of the sky?</string>
+    <string name="q1answer1">Paris</string>
+    <string name="q1answer2">London</string>
+    <string name="q1answer3">Berlin</string>
+    <string name="q2answer1">3</string>
+    <string name="q2answer2">4</string>
+    <string name="q2answer3">5</string>
+    <string name="q3answer1">Blue</string>
+    <string name="q3answer2">Green</string>
+    <string name="q3answer3">Red</string>
+</resources>
