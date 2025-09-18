@@ -5,6 +5,9 @@
     <string name="final_score">final_score\n</string>
     <string name="score">score: </string>
     <string name="scoreText">Score:</string>
+    <string name="scorebtn">Score</string>
+    <string name="steal">Steal</string>
+    <string name="reset">Reset</string>
 
 <!--    questions -->
     <string name="question1">Capital of France?</string>
@@ -19,4 +22,5 @@
     <string name="q3answer1">Blue</string>
     <string name="q3answer2">Green</string>
     <string name="q3answer3">Red</string>
+
 </resources>

@@ -5,6 +5,9 @@
     <string name="final_score">Endergebnis\n</string>
     <string name="score">Punktzahl: </string>
     <string name="scoreText">Punktzahl:</string>
+    <string name="scorebtn">Punkten</string>
+    <string name="steal">Stehlen</string>
+    <string name="reset">Setzen zurück</string>
 
     <!--    questions -->
     <string name="question1">Hauptstadt von Frankreich?</string>

@@ -30,6 +30,7 @@
 
         <TextView
             android:id="@+id/score"
+            android:text="0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="18sp"
@@ -40,23 +41,26 @@
 
 
     <Button
-        android:id="@+id/answer1"
+        android:id="@+id/scoreBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Answer 1"
+        android:layout_marginBottom="8dp"
+        android:paddingVertical="24dp"
+        android:text="@string/scorebtn" />
+
+    <Button
+        android:id="@+id/steal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/steal"
+        android:paddingVertical="24dp"
         android:layout_marginBottom="8dp"/>
 
     <Button
-        android:id="@+id/answer2"
+        android:id="@+id/reset"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Answer 2"
-        android:layout_marginBottom="8dp"/>
-
-    <Button
-        android:id="@+id/answer3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Answer 3"
+        android:text="@string/reset"
+        android:paddingVertical="24dp"
         android:layout_marginBottom="8dp"/>
 </LinearLayout>
